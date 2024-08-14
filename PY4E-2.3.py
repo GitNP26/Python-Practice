@@ -1,7 +1,4 @@
 hours = input('Enter Hours\n')
-hoursint = int(hours)
-print(type(hoursint))
 rate = input('Enter Rate\n')
-rateint = int(rate)
-pay = hoursint*rateint
+pay = float(hours)*float(rate)
 print('Pay is', pay)
