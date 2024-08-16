@@ -1,3 +1,4 @@
+#Python for evveryone exercise 5.1
 #Set starting variables
 # start(int) set to 1 to keep while loop running
 start = 1
